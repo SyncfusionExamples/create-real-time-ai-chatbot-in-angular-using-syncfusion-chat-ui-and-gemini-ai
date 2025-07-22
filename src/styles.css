@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/@syncfusion/ej2-base/styles/tailwind.css";
+@import '../node_modules/@syncfusion/ej2-inputs/styles/tailwind.css';
+@import '../node_modules/@syncfusion/ej2-navigations/styles/tailwind.css';
+@import '../node_modules/@syncfusion/ej2-popups/styles/tailwind.css';
+@import '../node_modules/@syncfusion/ej2-buttons/styles/tailwind.css';
+@import '../node_modules/@syncfusion/ej2-angular-interactive-chat/styles/tailwind.css';
+
+.container{
+    height: 550px;
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+  
